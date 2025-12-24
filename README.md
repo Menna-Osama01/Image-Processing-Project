@@ -55,3 +55,23 @@ pip install streamlit numpy opencv-python pillow
 streamlit run ML.ipynb
 git clone <repository-url>
 cd <repository-folder>
+
+🚀 Usage
+
+1. Open the app in your browser.
+2. Navigate using the sidebar:
+Welcome to Fixel – Introduction
+Fix Your Pixel – Upload/capture image and apply enhancement
+Enhancement Methods – Detailed explanation of each technique
+Reach Us – Contact information
+Our Story – About the team
+3. Adjust parameters for each technique using sliders and dropdowns.
+4. Press Fix Your Pixel to apply the transformation and see results.
+5. Download the enhanced image.
+
+🏆 Future Improvements
+
+Add more image processing filters (e.g., sharpening, edge detection, blurring)
+Support batch processing for multiple images
+Add user authentication for saving enhanced images online
+Improve UI/UX with Streamlit components and animations
